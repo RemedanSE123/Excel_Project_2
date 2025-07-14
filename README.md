@@ -105,8 +105,10 @@ Relationship: `data_jobs_all[job_id]` ↔ `data_job_skills[job_id]`
 ---
 
 ## 4️⃣ Pay of the Top 10 Skills
+<img width="759" height="513" alt="image" src="https://github.com/user-attachments/assets/c3e6dfa8-a243-4d44-99cb-ffb4d899b836" />
+
 <img width="862" height="452" alt="image" src="https://github.com/user-attachments/assets/0b759319-5952-4162-8a1c-667499cfceaf" />
-<img width="862" height="452" alt="image" src="https://github.com/user-attachments/assets/f7c1b987-bafd-40be-bfea-f749e7db6c1a" />
+
 
 ### 📈 Combo PivotChart
 - **Primary axis**: Median Salary (Clustered Column)  
