@@ -1,13 +1,18 @@
 # 📊 Excel Salary Dashboard
 
-![Salary Dashboard Screenshot](1_Salary_Dashboard.png)
+
+
+https://github.com/user-attachments/assets/35f7d682-103b-4659-ab9f-a3fe728fa07e
+
+
 
 ## 🔎 Introduction
 
 This **Excel Salary Dashboard** was created to help job‑seekers explore salary trends across data‑related roles and verify they’re being fairly compensated.  
-The underlying dataset comes from my Excel course and covers **2023** job data — titles, salaries, locations, and required skills.
+The underlying dataset  covers **2023** job data — titles, salaries, locations, and required skills.
 
-📁 **Dashboard file** → [`1_Salary_Dashboard.xlsx`](1_Salary_Dashboard.xlsx)
+📁 **Dashboard file** → <img width="1202" height="559" alt="Screenshot 2025-07-14 170944" src="https://github.com/user-attachments/assets/8faaf10e-6a06-486f-a199-2293999624da" />
+
 
 ---
 
@@ -35,7 +40,8 @@ Real‑world data‑science job information, including:
 
 ### 📊 1. Data‑Science Job Salaries — Bar Chart
 
-![Chart 1](1_Salary_Dashboard_Chart1.png)
+![Chart 1]<img width="435" height="527" alt="Screenshot 2025-07-14 172556" src="https://github.com/user-attachments/assets/415a015b-2698-4b30-8087-d024700dfb0c" />
+
 
 * Horizontal bar chart showing **median salaries** by job title  
 * Sorted descending for quick comparison  
@@ -45,13 +51,17 @@ Real‑world data‑science job information, including:
 
 ### 🗺️ 2. Country Median Salaries — Map Chart
 
-![Chart 2](1_Salary_Dashboard_Chart2.png)
+![Chart 2]<img width="393" height="493" alt="Screenshot 2025-07-14 172616" src="https://github.com/user-attachments/assets/c82e6f2a-108c-4d20-a91e-44653b9091fc" />
+
 
 * Excel **map chart** visualizing global salary levels  
 * Color‑coded regions for at‑a‑glance disparities  
 * **Insight 💡:** Clear view of high vs. low salary regions worldwide  
 
 ---
+
+<img width="408" height="507" alt="Screenshot 2025-07-14 172628" src="https://github.com/user-attachments/assets/c17ee929-7196-4250-9359-d99cb2e5982d" />
+
 
 ## 🔢 Key Formulas
 
@@ -102,13 +112,6 @@ Feel free to dive in and adapt the workbook for your own analyses!
 
 ---
 
-## 📎 Files Included
-
-- `1_Salary_Dashboard.xlsx`  —  Final interactive dashboard  
-- `1_Salary_Dashboard.png`   —  Main dashboard screenshot  
-- `1_Salary_Dashboard_Chart1.png` —  Bar chart  
-- `1_Salary_Dashboard_Chart2.png` —  Map chart  
-- `1_Salary_Dashboard_Type.png`  —  Filtered schedule types  
 
 ---
 
